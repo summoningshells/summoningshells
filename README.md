@@ -40,7 +40,7 @@ FR/EN/ES
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=summoningshells&gstats=show&style=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=summoningshells&icon=0&color=11)](https://visitcount.itsvg.in)
+
 [![](https://img.shields.io/badge/quality-trust%20me%20bro-3C1)](https://github.com/sebmestrallet/absurd-badges)
 [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges)
 [![](https://img.shields.io/badge/hidden%20rickrolls-27-08C)](https://github.com/sebmestrallet/absurd-badges)
