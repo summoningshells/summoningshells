@@ -34,8 +34,11 @@ FR/EN/ES
 ![](https://github-contributor-stats.vercel.app/api?username=summoningshells&limit=3&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🔒 Security Platforms
+https://tryhackme.com/p/summoningshells
 
 ![TruHackMe](https://tryhackme-badges.s3.amazonaws.com/summoningshells.png)
+
+https://www.root-me.org/summoningshells
 
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=summoningshells&gstats=show&style=dark)
 
