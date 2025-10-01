@@ -1,7 +1,5 @@
 ## 💫 Whoami:
-Data scientist turned Cybersecurity Analyst, i work a lot with ICS/OT
-
-I really like music, cats and computers!
+french security nerd
 
 
 FR/EN/ES
