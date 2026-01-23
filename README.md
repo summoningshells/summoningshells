@@ -9,9 +9,6 @@ french infosec nerd
 ![image](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🔝 Top 3 Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=summoningshells&limit=3&theme=dark&combine_all_yearly_contributions=true)
-
 ### 🔒 Security Platforms
 https://tryhackme.com/p/summoningshells
 
