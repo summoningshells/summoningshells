@@ -17,27 +17,25 @@
 
 French infosec nerd.
 
-Mostly interested in IoT/OT reverse engineering. Occasionally breaking web applications and taking old games apart.
-
 
 ----[ 0x01 / profiles ]--------------------------------------------------------
 
-[TryHackMe](https://tryhackme.com/p/summoningshells)
+```
+TryHackMe     https://tryhackme.com/p/summoningshells
+Root-Me       https://www.root-me.org/summoningshells
+Hack The Box  https://app.hackthebox.com/public/users/3229261
+```
 
-[Root-Me](https://www.root-me.org/summoningshells)
-
-[Hack The Box](https://app.hackthebox.com/public/users/3229261)
 
 
 ----[ 0x02 / languages ]-------------------------------------------------------
 
     C           because memory safety is optional
-    C++         C with additional ways to regret things
-    Python      tooling / scripts / automation / PoCs
+    Python      tooling / scripts / automation / PoC's
     PHP         web things
-    Shell       glue and questionable one-liners
-    PowerShell  windows...
-
+    Bash        because UNIX 
+    PowerShell  because Windows still exists
+    
 
 ----[ 0x03 / interests ]-------------------------------------------------------
 
@@ -60,5 +58,7 @@ Mostly interested in IoT/OT reverse engineering. Occasionally breaking web appli
         application security
         APIs
 
+
+This account is mostly a dumping ground for security tooling, unfinished ideas, questionable code and things written at unreasonable hours.
 
 ----[ EOF ]--------------------------------------------------------------------
