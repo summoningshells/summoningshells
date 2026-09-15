@@ -1,19 +1,64 @@
-## Whoami:
-french infosec nerd
+<pre>
+ ███████╗ ██╗   ██╗ ███╗   ███╗ ███╗   ███╗  ██████╗  ███╗   ██╗ ██╗ ███╗   ██╗  ██████╗
+ ██╔════╝ ██║   ██║ ████╗ ████║ ████╗ ████║ ██╔═══██╗ ████╗  ██║ ██║ ████╗  ██║ ██╔════╝
+ ███████╗ ██║   ██║ ██╔████╔██║ ██╔████╔██║ ██║   ██║ ██╔██╗ ██║ ██║ ██╔██╗ ██║ ██║  ███╗
+ ╚════██║ ██║   ██║ ██║╚██╔╝██║ ██║╚██╔╝██║ ██║   ██║ ██║╚██╗██║ ██║ ██║╚██╗██║ ██║   ██║
+ ███████║ ╚██████╔╝ ██║ ╚═╝ ██║ ██║ ╚═╝ ██║ ╚██████╔╝ ██║ ╚████║ ██║ ██║ ╚████║ ╚██████╔╝
+ ╚══════╝  ╚═════╝  ╚═╝     ╚═╝ ╚═╝     ╚═╝  ╚═════╝  ╚═╝  ╚═══╝ ╚═╝ ╚═╝  ╚═══╝  ╚═════╝
+ ███████╗ ██╗  ██╗ ███████╗ ██╗      ██╗      ███████╗
+ ██╔════╝ ██║  ██║ ██╔════╝ ██║      ██║      ██╔════╝
+ ███████╗ ███████║ █████╗   ██║      ██║      ███████╗
+ ╚════██║ ██╔══██║ ██╔══╝   ██║      ██║      ╚════██║
+ ███████║ ██║  ██║ ███████╗ ███████╗ ███████╗ ███████║
+ ╚══════╝ ╚═╝  ╚═╝ ╚══════╝ ╚══════╝ ╚══════╝ ╚══════╝
+</pre>
 
-### 👩‍💻 Main Languages 
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![image](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+----[ 0x00 / whoami ]----------------------------------------------------------
 
-### 🔒 Security Platforms
-https://tryhackme.com/p/summoningshells
+French infosec nerd.
 
-![TruHackMe](https://tryhackme-badges.s3.amazonaws.com/summoningshells.png)
+Mostly interested in IoT/OT reverse engineering. Occasionally breaking web applications and taking old games apart.
 
-https://www.root-me.org/summoningshells
 
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=summoningshells&gstats=show&style=dark)
+----[ 0x01 / profiles ]--------------------------------------------------------
+
+[TryHackMe](https://tryhackme.com/p/summoningshells)
+
+[Root-Me](https://www.root-me.org/summoningshells)
+
+[Hack The Box](https://app.hackthebox.com/public/users/3229261)
+
+
+----[ 0x02 / languages ]-------------------------------------------------------
+
+    C           because memory safety is optional
+    C++         C with additional ways to regret things
+    Python      tooling / scripts / automation / PoCs
+    PHP         web things
+    Shell       glue and questionable one-liners
+    PowerShell  windows...
+
+
+----[ 0x03 / interests ]-------------------------------------------------------
+
+    OT / ICS
+        PLCs
+        SCADA
+        industrial protocols
+
+    reverse engineering
+        binaries
+        video games
+        decompilation / decomp projects
+
+    forensics
+        disk / filesystem analysis
+        memory forensics
+        network forensics
+
+    web
+        application security
+        APIs
+
+
+----[ EOF ]--------------------------------------------------------------------
