@@ -21,11 +21,10 @@ French infosec nerd.
 ----[ 0x01 / profiles ]--------------------------------------------------------
 
 ```
-TryHackMe     https://tryhackme.com/p/summoningshells
 Root-Me       https://www.root-me.org/summoningshells
 Hack The Box  https://app.hackthebox.com/public/users/3229261
+TryHackMe     https://tryhackme.com/p/summoningshells
 ```
-
 
 
 ----[ 0x02 / languages ]-------------------------------------------------------
@@ -33,8 +32,8 @@ Hack The Box  https://app.hackthebox.com/public/users/3229261
     C           because memory safety is optional
     Python      tooling / scripts / automation / PoC's
     PHP         web things
-    Bash        because UNIX 
-    PowerShell  because Windows still exists
+    Bash        glue
+    PowerShell  Windows stuff
     
 
 ----[ 0x03 / interests ]-------------------------------------------------------
@@ -47,7 +46,6 @@ Hack The Box  https://app.hackthebox.com/public/users/3229261
     reverse engineering
         binaries
         video games
-        decompilation / decomp projects
 
     forensics
         disk / filesystem analysis
@@ -59,6 +57,6 @@ Hack The Box  https://app.hackthebox.com/public/users/3229261
         APIs
 
 
-This account is mostly a dumping ground for security tooling, unfinished ideas, questionable code and things written at unreasonable hours.
+This account is mostly a dumping ground for security tooling, unfinished ideas and questionable code.
 
 ----[ EOF ]--------------------------------------------------------------------
