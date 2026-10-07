@@ -21,6 +21,7 @@ French infosec nerd.
 ----[ 0x01 / profiles ]--------------------------------------------------------
 
 ```
+YesWeHack     https://yeswehack.com/hunters/summoningshells
 Root-Me       https://www.root-me.org/summoningshells
 Hack The Box  https://app.hackthebox.com/public/users/3229261
 TryHackMe     https://tryhackme.com/p/summoningshells
@@ -29,7 +30,7 @@ TryHackMe     https://tryhackme.com/p/summoningshells
 
 ----[ 0x02 / languages ]-------------------------------------------------------
 
-    C           because memory safety is optional
+    C           because memory safety is optional and RE is fun
     Python      tooling / scripts / automation / PoC's
     PHP         web things
     Bash        glue
